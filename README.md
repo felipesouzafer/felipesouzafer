@@ -2,7 +2,7 @@
 
 ### Sou Técnico em Informática e e faço Desenvolvimento Web em formação 💻
 
-![Felipe GitHub stats](https://github-readme-stats.vercel.app/api?username=felipesouzafer&show_icons=true&theme=radical)
+![Felipe GitHub stats](https://github-readme-stats.vercel.app/api?username=felipesouzafer&show_icons=true&theme=dark)
 
 
 ## Tecnologias que eu uso no dia a dia 
@@ -14,5 +14,5 @@
 </div><br/>
 
 
-"Se tu o desejas, podes voar, só tens de confiar muito em ti" 🚀
+    "Se tu o desejas, podes voar, só tens de confiar muito em ti" 🚀
 Steve Jobs 
