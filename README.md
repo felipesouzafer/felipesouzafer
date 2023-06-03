@@ -1,6 +1,6 @@
 ### Olá, eu sou o Felipe de Souza👋
 
-### Sou Técnico em Informática e e faço Desenvolvimento Web em formação 💻
+### Sou Técnico em Informática e Desenvolvedor Web em formação 💻
 
 ![Felipe GitHub stats](https://github-readme-stats.vercel.app/api?username=felipesouzafer&show_icons=true&theme=dark)
 
