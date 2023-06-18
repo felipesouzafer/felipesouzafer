@@ -2,7 +2,9 @@
 
 ### Sou Técnico em Informática e Desenvolvedor Web em formação 💻
 
-![Felipe GitHub stats](https://github-readme-stats.vercel.app/api?username=felipesouzafer&show_icons=true&theme=dark)
+[![Felipe Souza GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=felipesouza&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Felipe Souza GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=felipesouzafer&show_icons=true&theme=default#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+
 
 
 ## Tecnologias que eu uso no dia a dia 
