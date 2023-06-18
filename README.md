@@ -19,4 +19,4 @@
 Steve Jobs 
 
 
-![Snake animation](https://github.com/Felipe de Souza/felipesouzafer/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Felipe_de_Souza/felipesouzafer/blob/output/github-contribution-grid-snake.svg)
