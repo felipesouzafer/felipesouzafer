@@ -1,8 +1,7 @@
 ### Olá, eu sou o Felipe de Souza👋
 
 ### Sou Técnico em Informática e Desenvolvedor Web em formação 💻
-
-[![Felipe Souza GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=felipesouzafer&show_icons=true&theme=dark#gh-dark-mode-only)
+![Felipe de Souza GitHub stats](https://github-readme-stats.vercel.app/api?username=felipesouzafer&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipesouzafer&layout=compact&theme=dark#gh-dark-mode-only)]
 
 
