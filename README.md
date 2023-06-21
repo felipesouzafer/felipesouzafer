@@ -1,6 +1,6 @@
 ### Olá, eu sou o Felipe de Souza👋
 
-### Sou Técnico em Informática e Desenvolvedor Web em formação 💻
+### Sou Técnico em Informática e Desenvolvedor Front-End em formação 💻
 
 
 ## Tecnologias que eu uso no dia a dia 
